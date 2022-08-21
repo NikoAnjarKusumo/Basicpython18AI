@@ -5,7 +5,7 @@ from email.message import EmailMessage
 
 #akun dan password
 akun_email = "aimbptes005@gmail.com"
-pass_email = "kjfovuwzolpipvhg"
+pass_email = "*****"
 
 #akun penerima dalam file txt
 penerima = open("emails.txt", "r")
